@@ -1,0 +1,3 @@
+100DaysOfSwiftUI by Paul Hudson: https://www.hackingwithswift.com/100/swiftui
+Ray Wenderlich iOS and SwiftUI: https://www.kodeco.com/ios/paths/learn
+Stanford 193p Course: https://cs193p.sites.stanford.edu/
